@@ -17,4 +17,6 @@ Também há uma resposta mais generalizada pra essa pergunta sendo ela: "Ambos e
 <h2 align="left"><a href="https://github.com/daavsnts/teste-target-sistemas/blob/main/src/main/kotlin/questao05.kt">Questão 05:</a></h2>
 Como foi pedido, não utilizei de nenhuma função pronta.
 
+</br>
+
 Agradeço a oportunidade da entrevista, espero nos vermos no futuro! :)
