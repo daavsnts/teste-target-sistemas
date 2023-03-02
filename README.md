@@ -1,6 +1,7 @@
 <h1 align="left">Teste para a Target Sistemas</h1>
 Segue os códigos das questões do teste da Target Sistemas.<br>
-OBS: Decidi escrever os códigos em português seguindo a instrução do primeiro código em português
+OBS: Decidi escrever os códigos em português seguindo a instrução do primeiro código em português.<br>
+(Porém costumo escrever meus códigos todos em inglês, como vocês podem ver aqui: https://github.com/daavsnts/android-calculator)
 
 <h2 align="left"><a href="https://github.com/daavsnts/teste-target-sistemas/blob/main/src/main/kotlin/questao01.kt">🔗 Questão 01:</a></h2>
 Basicamente foi só "traduzir" o código pro Kotlin.
@@ -16,3 +17,5 @@ Também há uma resposta mais generalizada pra essa pergunta sendo ela: "Ambos e
 
 <h2 align="left"><a href="https://github.com/daavsnts/teste-target-sistemas/blob/main/src/main/kotlin/questao05.kt">🔗 Questão 05:</a></h2>
 Conforme foi pedido, não utilizei de nenhuma função pronta.
+<br>
+Fiquem a vontade para explorar meu GitHub e obrigado pela oportunidade do teste!
