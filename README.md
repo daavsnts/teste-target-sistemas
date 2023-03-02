@@ -1,4 +1,4 @@
-<h1 aligh="left>teste-target-sistemas</h1>
+<h1 align="left">teste-target-sistemas</h1>
 Segue os códigos das questões do teste da Target Sistemas.
 OBS: Decidi os códigos em português seguindo a instrução do primeiro código em português
 
@@ -17,4 +17,4 @@ Também há uma resposta mais generalizada pra essa pergunta sendo ela: "Ambos e
 <h2 align="left"><a href="https://github.com/daavsnts/teste-target-sistemas/blob/main/src/main/kotlin/questao05.kt">Questão 05:</a></h2>
 Como foi pedido, não utilizei de nenhuma função pronta.
 
-<h1 align="left">Agradeço a oportunidade da entrevista, espero nos vermos no futuro! :)</h1>
+Agradeço a oportunidade da entrevista, espero nos vermos no futuro! :)
