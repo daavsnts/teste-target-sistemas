@@ -1,6 +1,6 @@
-<h1 align="left">teste-target-sistemas</h1>
-Segue os códigos das questões do teste da Target Sistemas.
-OBS: Decidi os códigos em português seguindo a instrução do primeiro código em português
+<h1 align="left">Teste para a Target Sistemas</h1>
+Segue os códigos das questões do teste da Target Sistemas.<br>
+OBS: Decidi escrever os códigos em português seguindo a instrução do primeiro código em português
 
 <h2 align="left"><a href="https://github.com/daavsnts/teste-target-sistemas/blob/main/src/main/kotlin/questao01.kt">Questão 01:</a></h2>
 Basicamente foi só "traduzir" o código pro Kotlin.
