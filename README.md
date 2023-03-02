@@ -1,8 +1,8 @@
 <h1 align="left">Teste para a Target Sistemas</h1>
 Segue os códigos das questões do teste da <b>Target Sistemas</b>.<br>
-OBS: Decidi escrever os códigos em português seguindo a instrução do primeiro código em português.<br>
-(Porém <b>costumo escrever meus códigos todos em inglês</b>, como vocês podem ver aqui: https://github.com/daavsnts/android-calculator)<br>
-  Fiquem a vontade para explorar meu <b>GitHub</b> e obrigado pela oportunidade do teste!
+<b>OBS:</b> Decidi <b>escrever os códigos em português</b> seguindo a instrução do <b>primeiro código da primeira questão</b>.<br>
+(Porém, <b>costumo escrever meus códigos todos em inglês</b>, como vocês podem ver aqui: https://github.com/daavsnts/android-calculator)<br>
+Fiquem a vontade para explorar meu <b>GitHub</b> e obrigado pela oportunidade do teste!
 
 <h2 align="left"><a href="https://github.com/daavsnts/teste-target-sistemas/blob/main/src/main/kotlin/questao01.kt">🔗 Questão 01:</a></h2>
 Basicamente foi só "traduzir" o código pra <b>Kotlin</b>.
