@@ -1,0 +1,5 @@
+A distância da via, velocidade e o pedagio são valores que podem ser desprezados para chegar a essa resposta, a pergunta é: "Qual o veículo mais próximo de Ribeirão Preto?", nesse caso temos duas possibilidades: 
+
+1. Se o encontro for demarcado no momento em que os veiculos se encontrarem: O veículo mais próximo é o carro, pois a parte de trás dele está mais próxima da cidade em questão.
+
+2. Caso o encontro de ambos os veículos seja demarcado pelo momento em que eles se cruzam na rodovia, o veículo mais próximo é o caminhão, pois a parte dianteira do caminhão está mais próxima da cidade em questão.
