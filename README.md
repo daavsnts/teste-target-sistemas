@@ -9,7 +9,7 @@ Basicamente foi só "traduzir" o código pro Kotlin.
 Nesse algorítmo decidi colocar uma condição para que o loop parasse de gerar os números assim que encontrasse o número procurado, evitando gasto desnecessário de memória.
 
 <h2 align="left"><a href="https://github.com/daavsnts/teste-target-sistemas/blob/main/src/main/kotlin/questao03.kt">🔗 Questão 03:</a></h2>
-Não fui capaz de entender a lógica por trás da sequência da letra "E" (decidi por não procurar as respostas no Google)
+Não fui capaz de entender a lógica por trás da sequência da letra "F" (decidi por não procurar as respostas no Google)
 
 <h2 align="left"><a href="https://github.com/daavsnts/teste-target-sistemas/blob/main/src/main/kotlin/questao04.txt">🔗 Questão 04:</a></h2>
 Também há uma resposta mais generalizada pra essa pergunta sendo ela: "Ambos estarão na mesma distância por se encontrarem no mesmo ponto."
